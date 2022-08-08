@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aci-helm:
+  - apiVersion: v2
+    appVersion: 5.2.3.2
+    created: "2022-08-08T16:16:45.887413807+05:30"
+    description: A Helm chart for ACI network plugin installation on kubernetes platform
+    digest: d7b5f20d71c4c429010cdf093a2071f67ca7c9ee2a6c367f9253a18ba764993d
+    name: aci-helm
+    type: application
+    urls:
+    - https://siva-muni.github.io/helm-chart/aci-helm-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-08-08T16:16:45.886311989+05:30"
